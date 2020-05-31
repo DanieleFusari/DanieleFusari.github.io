@@ -38,7 +38,7 @@ const portfolios = [
     title: "Mr Chef Invoices  ",
     logo: "img/portfolio/mr_chef.jpg",
     link: "https://github.com/DanieleFusari/invoices",
-    about: "Back office system to manage there invoices. PHP and JavaScript (Completed 25th May 2020)"
+    about: "Back office system to manage Mr Chef invoices. PHP and JavaScript (Completed 25th May 2020)"
   },
   {
     class: "raistudios",
