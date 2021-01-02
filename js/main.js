@@ -35,17 +35,17 @@ const portfolios = [
   },
   {
     class: "mrChef",
-    title: "Mr Chef Invoices  ",
+    title: "Mr Chef Invoices",
     logo: "img/portfolio/mr_chef.jpg",
     link: "https://github.com/DanieleFusari/invoices",
     about: "Back office system to manage Mr Chef invoices. PHP and JavaScript (Completed 25th May 2020)"
   },
   {
-    class: "raistudios",
+    class: 'raistudios',
     title: "RaiStudios",
     logo: "img/portfolio/raistudios.jpg",
-    link: "https://www.raistudios.co.uk",
-    about: "(Started  10th May 2020)"
+    link: "https://github.com/DanieleFusari/Rai_Studios",
+    about: "",
   }
 ]
 
